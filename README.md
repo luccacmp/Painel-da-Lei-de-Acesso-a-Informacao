@@ -1,9 +1,9 @@
 # Painel da Lei de Acesso à Informação
 
-Dashboard analítico desenvolvido em Power BI que centraliza e visualiza dados sobre pedidos de informação encaminhados à Lei de Acesso à Informação (LAI) do Ministério da Fazenda. A solução disponibiliza de forma interativa indicadores como número de pedidos respondidos, tempo médio de resposta, assuntos mais demandados, recursos solicitados e outros dados relevantes para acompanhamento operacional. O projeto promove transparência e facilita a análise de desempenho do serviço de acesso à informação.
+Dashboard desenvolvido em Power BI que centraliza dados sobre pedidos de informação da Lei de Acesso à Informação (LAI) do Ministério da Fazenda, permitindo acompanhamento de número de pedidos respondidos, tempo médio de resposta, assuntos mais demandados, recursos solicitados e outros indicadores relevantes.
 
 ## Desafio Resolvido
-Os dados sobre pedidos de LAI estavam fragmentados, dificultando a visualização consolidada e a análise de tendências. A solução integra essas informações em um painel interativo, permitindo consultas rápidas e análises profundas sobre o desempenho do serviço e cumprimento de prazos legais.
+Os dados sobre pedidos de Lei de Acesso à Informação (LAI) estavam fragmentados, dificultando a visualização consolidada e a análise de tendências operacionais. O desafio envolvia integrar informações sobre pedidos respondidos, tempo médio de resposta, assuntos mais demandados, recursos solicitados e outros indicadores em uma única solução. O painel centraliza essas informações de forma interativa, permitindo consultas rápidas e análises profundas sobre o desempenho do serviço, cumprimento de prazos legais e identificação de oportunidades de melhoria nos processos de acesso à informação.
 
 ## Tecnologias utilizadas
 - Power BI - Desenvolvimento e publicação do dashboard
